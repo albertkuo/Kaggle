@@ -1,4 +1,4 @@
 **Kaggle**
-*Projects on Kaggle with Albert & Anthony*
 ---
-blah
+_Kaggle Projects with Albert & Anthony_
+### - Titanic: Machine Learning From Disaster
